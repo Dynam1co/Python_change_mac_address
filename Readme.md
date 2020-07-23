@@ -58,3 +58,8 @@ No tiene por qué hacer falta instalar ninguna librería, ya que suele traerlas 
 - optparse: para las opciones del script
 - re: para testear con expresiones regulares que la nueva MAC cumpla con el formato válido
 - os: para saber si el usuario es root
+
+## Expresiones de Gratitud 🎁
+- Comenta a otros sobre este proyecto 📢
+- Da las gracias públicamente 🤓
+- Sígueme en [Twitter](https://twitter.com/AsensiFj) 🐦
